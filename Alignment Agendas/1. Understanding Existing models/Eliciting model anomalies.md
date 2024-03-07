@@ -1,0 +1,3 @@
+#Evals 
+- _One-sentence summary_: finding weird features of current models, in a way which isn’t fishing for capabilities nor exactly red-teaming. Think [inverse Scaling](https://arxiv.org/abs/2306.09479), [SolidGoldMagikarp](https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation), [Reversal curse](https://arxiv.org/abs//2309.12288), [out of context](https://openreview.net/forum?id=X3JFgY4gvf). Not an agenda but a multiplier on others. 
+- _Theory of change:_ maybe anomalies and edge cases tell us something deep about the models; you need data to theorise.

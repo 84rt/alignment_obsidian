@@ -1,0 +1,5 @@
+[[Alignment Agendas/4. Theory/The Learning-Theoretic Agenda]]
+[[Alignment Agendas/4. Theory/Open Agency Architecture]]
+[[Alignment Agendas/4. Theory/Provably safe systems]]
+[[Conjecture Cognitive Emulation]]
+[[Question-answer counterfactual intervals (QACI)]]

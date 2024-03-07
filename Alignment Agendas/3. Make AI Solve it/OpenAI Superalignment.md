@@ -1,0 +1,5 @@
+[[OpenAI]]
+[[Ilya Sutskever]]
+[[Jan Leike]]
+[[Leopold Aschenbrenner]]
+[[Collin Burns]]

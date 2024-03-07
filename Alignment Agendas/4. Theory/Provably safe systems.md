@@ -1,0 +1,2 @@
+[[Steve Omohundro]]
+[[Max Tegmark]]

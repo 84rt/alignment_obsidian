@@ -1,0 +1,5 @@
+[[1. Understand existing models]]
+[[2. Control the thing]]
+[[3. Make AI solve it]]
+[[4. Theory]]
+[[5. Labs with miscellaneous efforts]]
